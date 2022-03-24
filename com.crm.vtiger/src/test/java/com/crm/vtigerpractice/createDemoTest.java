@@ -5,8 +5,17 @@ import org.testng.annotations.Test;
 public class createDemoTest {
 @Test(groups="Regressiontest")
 public void createOrg() {
-	System.out.println("org created");
+	System.out.println("user1 org created");
+	System.out.println("user2 new org created");
 }
+
+
+
+
+
+
+
+
 @Test(groups="Regressiontest")
 public void modifyOrg() {
 	System.out.println("Modify org");
