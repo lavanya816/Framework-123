@@ -10,6 +10,7 @@ public class createLeadsTest {
 	@Test
 	public void modifyLead() {
 		System.out.println("Modify Lead");
+		System.out.println("Deleted lead");
 	}
 
 }
