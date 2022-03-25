@@ -8,14 +8,8 @@ public void createOrg() {
 	System.out.println("user1 org created");
 	System.out.println("user3 org created");
 	System.out.println("user2 new org created");
+	System.out.println("user3 org modified");
 }
-
-
-
-
-
-
-
 
 @Test(groups="Regressiontest")
 public void modifyOrg() {
