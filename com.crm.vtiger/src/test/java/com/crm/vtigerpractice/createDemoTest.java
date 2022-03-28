@@ -14,5 +14,5 @@ public void createOrg() {
 @Test(groups="Regressiontest")
 public void modifyOrg() {
 	System.out.println("Modify org");
-}
+ }
 }
