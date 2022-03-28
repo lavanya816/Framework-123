@@ -6,6 +6,7 @@ public class createDocumentTest {
 	@Test(groups="Regressiontest")
 	public void createDocument() {
 		System.out.println("Document created");
+		
 	}
 	@Test
 	public void modifyDocument() {
